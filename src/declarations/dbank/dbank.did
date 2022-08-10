@@ -1,0 +1,4 @@
+service : {
+  todDown: (nat) -> () oneway;
+  topUp: (nat) -> () oneway;
+}
