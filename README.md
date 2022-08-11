@@ -1,17 +1,19 @@
 # Dbank
 
-<img src="dbank-mockup.png" textAlign="center">
+<p align="center">
+<img src="dbank-mockup.png" display="block" margin="auto">
+</p>
 
 Dbank is a simple DeFi App application (inspired by Compound) that allows to interact with the ICP Live Blockchain. It's build to simulate a compound interest on the tokens when they are topped and whidrawed. This study project has really elevated interest, so it's possible to see the interests on the lapse that a new transaction is made. 
 
 ## Stack
 This application uses:
-*React 
-*Motoko
-*NodeJS
-*WebPack
-*JavaScript 
-*CSS 
+* React 
+* Motoko
+* NodeJS
+* WebPack
+* JavaScript 
+* CSS 
 
 ## Getting started! 
 
