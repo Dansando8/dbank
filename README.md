@@ -9,7 +9,6 @@ Dbank is a simple DeFi App application (inspired by Compound) that allows to int
 
 ## Stack
 This application uses:
-* React 
 * Motoko
 * NodeJS
 * WebPack
